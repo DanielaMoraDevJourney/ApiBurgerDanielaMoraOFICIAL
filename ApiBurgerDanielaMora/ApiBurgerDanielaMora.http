@@ -1,0 +1,6 @@
+@ApiBurgerDanielaMora_HostAddress = http://localhost:5182
+
+GET {{ApiBurgerDanielaMora_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
